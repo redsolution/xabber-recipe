@@ -25,7 +25,7 @@ setup(name='xabber_recipe',
       install_requires=[
         'zc.buildout',
         'zc.recipe.egg',
-        'Django==1.11.20',
+        'Django==1.11.23',
       ],
       extras_require={'test': ['coverage',
                                'mock']},
