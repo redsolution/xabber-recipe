@@ -1,0 +1,10 @@
+*.pyc
+.installed.cfg
+develop-eggs
+koe
+bin
+parts
+/eggs
+htmlcov
+.coverage
+src/xabber_recipe.egg-info

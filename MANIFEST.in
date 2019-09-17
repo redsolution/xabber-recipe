@@ -1,0 +1,5 @@
+include *.md
+exclude *.cfg
+exclude Makefile
+exclude *.yml
+exclude bootstrap.py
